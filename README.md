@@ -24,6 +24,7 @@ Cipher options:
   1. Atbash
   2. Caesar
   3. Vigenere
+
 Enter choice: 2
 How many rotations? (default is 13): 3
 Ciphered:   Khoor Zruog
