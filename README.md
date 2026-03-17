@@ -28,7 +28,9 @@ Cipher options:
 Enter choice: 2
 
 How many rotations? (default is 13): 3
+
 Ciphered:   Khoor Zruog
+
 Deciphered: Hello World
 
 ## Concepts Covered
